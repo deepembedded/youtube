@@ -1,0 +1,8 @@
+Hi.
+
+The link to the video (FPGA for Makers, beginners, and SW Developers) is: https://www.youtube.com/watch?v=4BTk8dgzejw&t=9s
+In the directory containing the file you are readin now, you will find a directory containing files for the Terasic DE0 board. In it, you will find the file 'divider.sv'
+which contains the SystemVerilog code for the divider demostration. If you wish to just go ahead and "burn" a DE0 board that you have, you can open the project in Quartus II and go ahead.
+
+Thanks.
+Deep Embedded.
